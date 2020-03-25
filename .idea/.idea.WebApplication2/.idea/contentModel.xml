@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\JolyMoly\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\JolyMoly\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\JolyMoly\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\JolyMoly\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_WebApplication2.1645409573.00" t="ExcludeRecursive" />
+    <e p="C:\Users\JolyMoly\Desktop\Cw3_readyProject-master" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WebApplication2" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="StudentsController.cs" t="Include" />
+        </e>
+        <e p="DAL" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Student.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="WebApplication2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WebApplication2.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WebApplication2.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
